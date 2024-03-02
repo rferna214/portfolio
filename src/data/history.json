@@ -4,15 +4,15 @@
       "organisation": "Quick Health",
       "startDate": "March, 2023",
       "endDate": "June 2023",
-      "experiences": ["Created their Mobile App", "Fixed CRM bugs", "Sent out SMS msgs through scripts"],
-      "imageSrc": "history/google.png"
+      "experiences": ["Developed their Mobile App", "Fixed CRM bugs", "Sent out SMS msgs through scripts"],
+      "imageSrc": "history/QH.png"
     },
     {
       "role": "SWE Intern",
       "organisation": "Chestnut Hill College",
-      "startDate": "june, 2022",
+      "startDate": "June, 2022",
       "endDate": "Aug, 2022",
-      "experiences": ["Designed onBoarding Screens", "Added Accessibility to teh Mobile App"],
-      "imageSrc": "history/microsoft.png"
+      "experiences": ["Designed onBoarding screens", "Added accessibility to their Mobile App"],
+      "imageSrc": "history/CHC.png"
     }
   ]
