@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Mobile Shopping List App",
+      "imageSrc": "projects/project.png",
+      "description": "A mobile app that allows users to create an account with a login to create shopping lists",
+      "skills": ["React Native", "SQLite", "Git"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/rferna214/RonShopperReactNativeMobileApplication"
+    },
+    {
+      "title": "Survey",
+      "imageSrc": "projects/project.png",
+      "description": "This Project allowed user to create surveys and add respondents to the surveys",
+      "skills": ["Ruby", "Bootstrap", "Ruby on Rails", "HTML"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/rferna214/Survey"
+    },
+    {
+      "title": "Halloween",
+      "imageSrc": "projects/project.png",
+      "description": "This project is a small minigame where a user has to go through a mansion and survive",
+      "skills": ["Java", "Git"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/rferna214/Halloween"
+    }
+  ]
