@@ -4,7 +4,7 @@
       "organisation": "Quick Health",
       "startDate": "March, 2023",
       "endDate": "June 2023",
-      "experiences": ["Developed their Mobile App", "Fixed CRM bugs", "Sent out SMS msgs through scripts"],
+      "experiences": ["Developed their Mobile App","Intergrated third-party APIs in the Mobile App", "Fixed CRM bugs", "Sent out SMS msgs through scripts"],
       "imageSrc": "history/QH.png"
     },
     {
